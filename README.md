@@ -2,7 +2,7 @@
 # RadarPro - Enterprise Banking Solution
 
 
-
+![RadarPro Banner](Screenshot%202025-07-25%20142224.png)
 ## 🔒 Overview
 **RadarPro** is a comprehensive enterprise banking and compliance application designed for high-security financial environments. It serves as a central hub for fraud detection, customer due diligence, and regulatory reporting.
 
