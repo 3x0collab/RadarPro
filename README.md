@@ -24,19 +24,6 @@ Due to the proprietary nature of the financial algorithms and security protocols
 * **Security:** JWT Authentication, Django Security Middleware
 * **Integrations:** Stripe (Payments), Onfido (Identity), Twilio (2FA)
 
-##  Gallery
-
-| Dashboard View | Transaction History |
-|:---:|:---:|
-| ![Dashboard](path/to/dashboard-image.png) | ![Transactions](path/to/transactions-image.png) |
-| *Real-time financial overview* | *Detailed transaction logs* |
-
-| User Profile & KYC | Admin Settings |
-|:---:|:---:|
-| ![Profile](path/to/profile-image.png) | ![Admin](path/to/admin-image.png) |
-| *Identity verification status* | *System configuration* |
-
-*(Note: Actual user data in screenshots has been obfuscated for privacy)*
 
 ##  System Architecture
 
